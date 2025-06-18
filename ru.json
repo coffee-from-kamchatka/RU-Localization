@@ -1,6 +1,6 @@
 {
     "localeCode": "ru",
-    "authors": ["GhostZ36", "BrotiwkA", "Shadow Panther", "ENTERTHEWOLF", "ConfusedYeen", "Stanislavskii", "maksim789456", "MrSetto"],
+    "authors": ["GhostZ36", "BrotiwkA", "Shadow Panther", "ENTERTHEWOLF", "ConfusedYeen", "Stanislavskii", "maksim789456", "MrSetto", "alextaco-anton"],
     "messages": {
 
         "General.OK": "OK",
@@ -589,8 +589,8 @@
 
         "Account.Type.Standard": "Стандартный Аккаунт",
         "Account.Type.Business": "Бизнес Аккаунт",
-        "Account.Type.Patreon": "Спонсор на Patreon",
-        "Account.Type.Stripe": "Спонсор на Stripe",
+        "Account.Type.Patreon": "Спонсор (Patreon)",
+        "Account.Type.Stripe": "Спонсор (Stripe)",
         "Account.Type.Mentor": "Ментор {platform}",
         "Account.Type.Moderator": "Модератор {platform}",
         "Account.Type.Team": "Команда {platform}",
@@ -698,8 +698,8 @@
         "Notifications.ReceivedItem": "Отправил(-ла) вам предмет:",
         "Notifications.VoiceMessage": "Отправил(-ла) голосовое сообщение",
         "Notifications.SessionStarted": "Запустил(-ла) сессию:",
-        "Notifications.ReceivedInviteRequestDirect": "Wants to be invited",
-        "Notifications.ReceivedInviteRequestForwarded": "Wants to invite:",
+        "Notifications.ReceivedInviteRequestDirect": "Хочет прийти",
+        "Notifications.ReceivedInviteRequestForwarded": "Хочет прийти:",
         "Notifications.UserJoined": "Пользователь подключился",
         "Notifications.UserLeft": "Пользователь отключился",
         "Notifications.PermissionChanged": "Роль изменена на {new}",
@@ -1014,7 +1014,7 @@
         "Importer.Model.Regular": "3D Модель",
         "Importer.Model.3DScan": "3D Скан",
         "Importer.Model.CAD": "CAD Модель",
-        "Importer.Model.PointCloud": "Point Cloud",
+        "Importer.Model.PointCloud": "Облако точек",
         
         "Importer.Model.GaussianSplat": "Гауссовы пятна",
         "Importer.Model.GaussianSplatVertical": "Вертикальная ось",
@@ -1065,9 +1065,9 @@
         "Importer.Model.Advanced.SetupIK": "Установить IK",
         "Importer.Model.Advanced.VisualizeRig": "Визуализация Скелета",
         "Importer.Model.Advanced.ForceTpose": "Выставить в T-Позу",
-        "Importer.Model.Advanced.ForcePointCloud": "Как Point Cloud",
+        "Importer.Model.Advanced.ForcePointCloud": "Как Облако точек",
 
-        "Importer.Model.Advanced.DualSided": "Сделать Dual Sided",
+        "Importer.Model.Advanced.DualSided": "Сделать двусторонним",
         "Importer.Model.Advanced.FlatShaded": "Сделать Flat Shaded",
         "Importer.Model.Advanced.DeduplicateInstances": "Дедуплицировать инстансы (медленно)",
         "Importer.Model.Advanced.Optimize": "Оптимизировать модель/сцену",
@@ -2172,7 +2172,7 @@
         "Inspector.Mesh.MakeDualSided": "Сделать двухсторонним",
         "Inspector.Mesh.ConvertToFlatShading": "Конвертировать в Flat Shading",
         "Inspector.Mesh.ConvertToConvexHull": "Конвертировать в Convex Hull",
-        "Inspector.Mesh.ConvertToPointCloud": "Конвертировать в Point Cloud",
+        "Inspector.Mesh.ConvertToPointCloud": "Конвертировать в Облако точек",
         "Inspector.Mesh.MergeDoubles": "Соединить дубли",
         "Inspector.Mesh.StripEmptyBlendshapes": "Убрать пустые blendshape'ы",
         "Inspector.Mesh.StripBlendshapeNormals": "Убрать нормали blendshape'ов",
