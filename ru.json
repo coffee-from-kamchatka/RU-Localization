@@ -2221,7 +2221,7 @@
         "Inspector.VHACD.Parameter.MergeDoubles": "Объединить дубликаты",
         "Inspector.VHACD.Parameter.Resolution": "Разрешение",
         "Inspector.VHACD.Parameter.Depth": "Глубина",
-        "Inspector.VHACD.Parameter.Concavity": "Впуклость",
+        "Inspector.VHACD.Parameter.Concavity": "Вогнутость",
         "Inspector.VHACD.Parameter.PlaneDownsampling": "Уменьшение разрешения плоскости",
         "Inspector.VHACD.Parameter.ConvexHullDownsampling": "Уменьшение разрешения выпуклого многогранника",
         "Inspector.VHACD.Parameter.Alpha": "Alpha",
