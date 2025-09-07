@@ -1506,7 +1506,7 @@
         "Settings.SteamIntegrationSettings.SaveScreenshots": "Сохранять скриншоты",
         "Settings.SteamIntegrationSettings.SaveScreenshots.Description": "Если вы снимаете фото и эта настройка включена, копия фото будет сохранена в скриншоты Steam.",
 
-        "Settings.SteamIntegrationSettings.ForceSteamVoiceOnRemotePlay": "Использовать Steam Voice ,когда активен Remote Play",
+        "Settings.SteamIntegrationSettings.ForceSteamVoiceOnRemotePlay": "Использовать Steam Voice при активном Remote Play",
         "Settings.SteamIntegrationSettings.ForceSteamVoiceOnRemotePlay.Description": "Когда включено, автоматически заставляет аудио ввод использовать Steam Voice ,когда вы играете через Steam Remote Play. Это позволяет не использовать автоматическое переключение чтобы работать со встроенным микрофоном шлема.<br><br>Отключение этой настройки может быть полезно если вы используете другое устройство захвата, например внешний микрофон.",
 
         "Settings.LeapMotionSettings.LeapMotionEnabled": "Включение трекинга рук Leap Motion",
@@ -1578,9 +1578,9 @@
         "Settings.HapticPointMapping.TorsoSide.Description": "Указывает, на какой стороне туловища размещено это устройство (спереди или сзади)",
 
         "Settings.HapticPointMapping.HeadPitchAngle": "Угол наклона на голове",
-        "Settings.HapticPointMapping.HeadPitchAngle.Description": "Задает позицию вдоль \"вертикальной\" оси головы. Позиция по умолчанию — это центр лица (примерно там, где нос). Увеличение угла сдвигает позицию вверх до макушки. Уменьшение - вниз до подбородка.",
+        "Settings.HapticPointMapping.HeadPitchAngle.Description": "Задает позицию вдоль \"вертикальной\" оси головы. Позиция по умолчанию - это центр лица (примерно там, где нос). Увеличение угла сдвигает позицию вверх до макушки. Уменьшение - вниз до подбородка.",
         "Settings.HapticPointMapping.HeadYawAngle": "Угол поворота на голове",
-        "Settings.HapticPointMapping.HeadYawAngle.Description": "Задает горизонтальную позицию вокруг головы, поворачивая налево или направо. Позиция по умолчанию — это центр лица (примерно там, где нос). Уменьшение значения сдвигает налево, увеличение - направо. Позиция оборачивается вокруг всей головы вплоть до 180°, когда позиция приходится на затылок.",
+        "Settings.HapticPointMapping.HeadYawAngle.Description": "Задает горизонтальную позицию вокруг головы, поворачивая налево или направо. Позиция по умолчанию - это центр лица (примерно там, где нос). Уменьшение значения сдвигает налево, увеличение - направо. Позиция оборачивается вокруг всей головы вплоть до 180°, когда позиция приходится на затылок.",
 
         "Settings.HapticPointMapping.ArmSide": "Рука",
         "Settings.HapticPointMapping.ArmSide.Description": "К какой из рук должно быть привязано устройство? К левой или правой?",
@@ -1716,7 +1716,7 @@
         "Settings.EarmuffSettings.TransitionLength": "Диапазон перехода",
         "Settings.EarmuffSettings.TransitionLength.Description": "Управляет расстоянием, за которое голоса будут становиться тише от нормальной громкости до полностью приглушенных. Большие значения сделают переход громкости плавнее, а маленькие могут вызвать резкий скачок громкости.",
         "Settings.EarmuffSettings.VolumeAttenuation": "Заглушение голоса",
-        "Settings.EarmuffSettings.VolumeAttenuation.Description": "Управляет громкостью голосов за пределами \"конуса слуха\". Если установить в 0 % — это полностью заглушит всех пользователей за пределами конуса.",
+        "Settings.EarmuffSettings.VolumeAttenuation.Description": "Управляет громкостью голосов за пределами \"конуса слуха\". Если установить в 0 % - это полностью заглушит всех пользователей за пределами конуса.",
 
         "Settings.RealtimeNetworkingSettings.DisableLAN": "Отключить LAN",
         "Settings.RealtimeNetworkingSettings.DisableLAN.Description": "Выключает функциональности локальной сети, такие как широковещательное объявление вашей сессии в локальной сети или обнаружение сессий других пользователей в этой локальной сети.",
@@ -1875,7 +1875,7 @@
         "Settings.CursorSettings.SliderMultiplier.Description": "Применяется как множитель к размеру курсора при взаимодействии со слайдерами и областями прокрутки.",
 
         "Settings.CursorSettings.DirectCursorEnabled": "Прямой курсор включен",
-        "Settings.CursorSettings.DirectCursorEnabled.Description": "При включении показывает прямой курсор.\n\nПрямой курсор — это точка в пространстве, в которой будет находиться ваш курсор без сглаживания или корректировок, выполненных другими настройками или системами.",
+        "Settings.CursorSettings.DirectCursorEnabled.Description": "При включении показывает прямой курсор.\n\nПрямой курсор - это точка в пространстве, в которой будет находиться ваш курсор без сглаживания или корректировок, выполненных другими настройками или системами.",
 
         "Settings.DesktopViewSettings.FollowCursor": "Следовать за курсором",
         "Settings.DesktopViewSettings.FollowCursor.Description": "Когда включено, вид Рабочего стола будет автоматически переключаться на экран, на котором сейчас находится курсор мыши. Это может быть удобно если вы используете физические клавиатуру и мышь в VR.",
@@ -2079,11 +2079,11 @@
 
         "Settings.ImportSettings": "Импортировать настройки",
         "Settings.ImportSettings.SessionUrls": "При импорте URL сеанса",
-        "Settings.ImportSettings.SessionUrls.Description": "Что должно произойти при импорте URL сеанса. Доступны следующие параметры:\n\n<color=hero.yellow>Открыть</color> — Открыть сеанс.\n<color=hero.yellow>SpawnInterface</color> — Создает представление (например, сферу сеанса) URL в вашем текущем местоположении.\n<color=hero.yellow>SpawnUrl</color> — Создает URL в вашем текущем местоположении как интерфейс URL.",
+        "Settings.ImportSettings.SessionUrls.Description": "Что должно произойти при импорте URL сеанса. Доступны следующие параметры:\n\n<color=hero.yellow>Открыть</color> - Открыть сеанс.\n<color=hero.yellow>SpawnInterface</color> - Создает представление (например, сферу сеанса) URL в вашем текущем местоположении.\n<color=hero.yellow>SpawnUrl</color> - Создает URL в вашем текущем местоположении как интерфейс URL.",
         "Settings.ImportSettings.WorldUrls": "При импорте URL мира",
-        "Settings.ImportSettings.WorldUrls.Description": "Что должно произойти при импорте URL мира. Доступны следующие параметры:\n\n<color=hero.yellow>Открыть</color> — открыть мир.\n<color=hero.yellow>SpawnInterface</color> — создает представление (например, сферу мира) мира в вашем текущем местоположении.\n<color=hero.yellow>SpawnUrl</color> — создает URL в вашем текущем местоположении в качестве интерфейса URL.",
+        "Settings.ImportSettings.WorldUrls.Description": "Что должно произойти при импорте URL мира. Доступны следующие параметры:\n\n<color=hero.yellow>Открыть</color> - открыть мир.\n<color=hero.yellow>SpawnInterface</color> - создает представление (например, сферу мира) мира в вашем текущем местоположении.\n<color=hero.yellow>SpawnUrl</color> - создает URL в вашем текущем местоположении в качестве интерфейса URL.",
         "Settings.ImportSettings.NetworkUrls": "При импорте сетевого URL",
-        "Settings.ImportSettings.NetworkUrls.Description": "Что должно произойти при импорте сетевого URL. Доступны следующие параметры:\n\n<color=hero.yellow>Открыть</color> — открыть соединение с сеансом по URL.\n<color=hero.yellow>SpawnInterface</color> — создает представление (например, сферу сеанса) URL в вашем текущем location.\n<color=hero.yellow>SpawnUrl</color> — создает URL в вашем текущем местоположении как URL-интерфейс.",
+        "Settings.ImportSettings.NetworkUrls.Description": "Что должно произойти при импорте сетевого URL. Доступны следующие параметры:\n\n<color=hero.yellow>Открыть</color> - открыть соединение с сеансом по URL.\n<color=hero.yellow>SpawnInterface</color> - создает представление (например, сферу сеанса) URL в вашем текущем location.\n<color=hero.yellow>SpawnUrl</color> - создает URL в вашем текущем местоположении как URL-интерфейс.",
 
         "Settings.MysterySettings": "Загадочные настройки",
 
@@ -2177,7 +2177,7 @@
         "Inspector.Mesh.SetupRenderer": "Настроить рендерер",
         "Inspector.Mesh.ResaveMesh": "Пересохранить меш",
         "Inspector.Mesh.RecalculateNormals": "Пересчитать нормали",
-        "Inspector.Mesh.RecalculateNormalsSmooth": "перерастать нормали (сглаж. шейдинг)",
+        "Inspector.Mesh.RecalculateNormalsSmooth": "Пересчитать нормали (сглаж. шейдинг)",
         "Inspector.Mesh.RecalculateTangentsMikkt": "Пересчитать тангенсы (Mikktspace)",
         "Inspector.Mesh.RecalculateTangentsSimple": "Пересчитать тангенсы (simple)",
         "Inspector.Mesh.RecalculateBlendshapeNormals": "Пересчитать нормали blendshape'ов",
@@ -2221,7 +2221,7 @@
         "Inspector.VHACD.Parameter.MergeDoubles": "Объединить дубликаты",
         "Inspector.VHACD.Parameter.Resolution": "Разрешение",
         "Inspector.VHACD.Parameter.Depth": "Глубина",
-        "Inspector.VHACD.Parameter.Concavity": "Вогнутость",
+        "Inspector.VHACD.Parameter.Concavity": "Впуклость",
         "Inspector.VHACD.Parameter.PlaneDownsampling": "Уменьшение разрешения плоскости",
         "Inspector.VHACD.Parameter.ConvexHullDownsampling": "Уменьшение разрешения выпуклого многогранника",
         "Inspector.VHACD.Parameter.Alpha": "Alpha",
@@ -2604,7 +2604,7 @@
         "Tutorial.Intro.BadgesDisabilityVision": "Нарушение зрения",
         "Tutorial.Intro.BadgesDisabilitySpeech": "Нарушение речи",
         "Tutorial.Intro.BadgesTitle": "Значки",
-        "Tutorial.Intro.BadgesDescription": "Значки — это маленькие метки, показывающие разные стороны пользователя. Вот несколько важных значков, которые следует запомнить. Значки ограниченных возможностей можно самостоятельно присвоить с помощью бота {appName}. Больше информации - на {appName} Wiki.",
+        "Tutorial.Intro.BadgesDescription": "Значки - это маленькие метки, показывающие разные стороны пользователя. Вот несколько важных значков, которые следует запомнить. Значки ограниченных возможностей можно самостоятельно присвоить с помощью бота {appName}. Больше информации - на {appName} Wiki.",
         "Tutorial.Intro.HelpSite": "Справка",
 
         "Object.Mirror.Toggle": "Включить локально",
@@ -2680,7 +2680,7 @@
         "Migration.Groups.NoGroups": "Не найдено групп в {platform} для переноса.",
         "Migration.Groups.NotGroupAdmin": "Вы не являетесь администратором ни одной группы в {platform}. Попросите администраторов вашей группы перенести её!",
 
-        "Migration.Summary": "Хорошо, у нас есть все, что нам нужно. Нажмите “Начать миграцию ниже”, и мы начнем миграцию.\n\nМиграция может занять некоторое время, нам нужно будет скопировать всё. Если вы решили перенести избранное, мы сделаем это в первую очередь, чтобы вам было удобно.\n\nВам не нужно держать {appName} все время запущенным во время миграции, мы будем отправлять вам обновления через бота {appName} чтобы вы знали, как идут дела.",
+        "Migration.Summary": "Хорошо, у нас есть все, что нам нужно. Нажмите \"Начать миграцию ниже\", и мы начнем миграцию.\n\nМиграция может занять некоторое время, нам нужно будет скопировать всё. Если вы решили перенести избранное, мы сделаем это в первую очередь, чтобы вам было удобно.\n\nВам не нужно держать {appName} все время запущенным во время миграции, мы будем отправлять вам обновления через бота {appName} чтобы вы знали, как идут дела.",
 
         "Migration.List.EmptyTitle": "Хотите начать новую миграцию?",
         "Migration.List.EmptySubtitle": "Нажмите \"Новая задача миграции\" в левом верхнем углу.",
@@ -2837,7 +2837,7 @@
         "CloudHome.Panel.LightColor": "Цвет света",
         "CloudHome.Panel.LightColorTemperature": "Температура освещения",
 
-        "CloudHome.Panel.Spawn": "Спаун",
+        "CloudHome.Panel.Spawn": "Точка возрождения",
         "CloudHome.Panel.Foyer": "Фойе",
         "CloudHome.Panel.Workspace": "Рабочий стол",
         "CloudHome.Panel.ReadingLounge": "Читальный зал",
@@ -3194,7 +3194,7 @@
         "Help.MainPage.Content2": "<br><size=200%>FAQ:</size><br><size=66%><br>Часто задаваемые вопросы</size>",
 
         "Help.FAQ.AvatarQuestions": "Кто может мне помочь с аватаром?",
-        "Help.FAQ.AvatarQuestions.Content": "Ты можешь попросить помощи у <b><color=hero.green>Наставника</closeall>! Наставники — это добровольные члены сообщества, предлагающие помощь новым пользователям в свое время и содействующие решению вопросов сообщества также помогающие с настройкой аватаров. Они выделяются нашивкой <sprite name=MentorIcon> Наставника.",
+        "Help.FAQ.AvatarQuestions.Content": "Ты можешь попросить помощи у <b><color=hero.green>Наставника</closeall>! Наставники - это добровольные члены сообщества, предлагающие помощь новым пользователям в свое время и содействующие решению вопросов сообщества также помогающие с настройкой аватаров. Они выделяются нашивкой <sprite name=MentorIcon> Наставника.",
 
         "Help.GettingStarted.AvatarBasics": "Аватары",
         "Help.GettingStarted.AvatarBasics.Equipping": "Надевание аватаров",
