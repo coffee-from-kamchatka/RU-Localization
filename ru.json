@@ -1820,7 +1820,7 @@
         "Settings.NamePlateSettings.NameplateVisibility": "Видимость табличек имён",
         "Settings.NamePlateSettings.NameplateVisibility.Description": "Определяет, чьи таблички имен видны вам.",
         "Settings.NamePlateSettings.UseCustomNameplates": "Показывать кастомные таблички имён",
-        "Settings.NamePlateSettings.UseCustomNameplates.Description": "Если некоторые таблички имен сложно прочитать, полностью спрятаны или вам нужно увидеть настоящее имя и значки  пользователя (например, в целях модерации), вы можете выключить кастомные таблички имен чтобы видеть системные.",
+        "Settings.NamePlateSettings.UseCustomNameplates.Description": "Если некоторые таблички имен сложно прочитать, полностью спрятаны или вам нужно увидеть настоящее имя и значки пользователя (например, в целях модерации), вы можете выключить кастомные таблички имен чтобы видеть системные.",
 
         "Settings.CustomizationSettings": "Настройки кастомизации",
         "Settings.CustomizationSettings.UserInterfaceEditMode": "Режим редактирования интерфейса",
